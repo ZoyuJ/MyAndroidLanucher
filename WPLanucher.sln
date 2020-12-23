@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPLanucher.Android", "WPLanucher\WPLanucher.Android\WPLanucher.Android.csproj", "{EE0CA1CD-AA6D-48BB-A7C6-27CD3077C5C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPLanucher", "WPLanucher\WPLanucher\WPLanucher.csproj", "{FC38714E-EFCD-40A4-B27D-7B495C760E17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0CA1CD-AA6D-48BB-A7C6-27CD3077C5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0CA1CD-AA6D-48BB-A7C6-27CD3077C5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0CA1CD-AA6D-48BB-A7C6-27CD3077C5C8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EE0CA1CD-AA6D-48BB-A7C6-27CD3077C5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0CA1CD-AA6D-48BB-A7C6-27CD3077C5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE0CA1CD-AA6D-48BB-A7C6-27CD3077C5C8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FC38714E-EFCD-40A4-B27D-7B495C760E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC38714E-EFCD-40A4-B27D-7B495C760E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC38714E-EFCD-40A4-B27D-7B495C760E17}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FC38714E-EFCD-40A4-B27D-7B495C760E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC38714E-EFCD-40A4-B27D-7B495C760E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC38714E-EFCD-40A4-B27D-7B495C760E17}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C5A508-CC8E-463F-A9D9-698BA6D45CF8}
+	EndGlobalSection
+EndGlobal
